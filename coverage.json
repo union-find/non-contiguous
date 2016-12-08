@@ -1,0 +1,143 @@
+{
+  "coverage": "0%",
+  "expectCount": 40,
+  "actualCount": 0,
+  "files": {
+    "src/fundamentals/LinkedListNode.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        1
+      ]
+    },
+    "src/adt/LinkedList.js": {
+      "expectCount": 4,
+      "actualCount": 0,
+      "undocumentLines": [
+        3,
+        13,
+        23,
+        5
+      ]
+    },
+    "src/adt/Forest.js": {
+      "expectCount": 4,
+      "actualCount": 0,
+      "undocumentLines": [
+        3,
+        16,
+        26,
+        8
+      ]
+    },
+    "src/adt/LinkedListWithHeadAndLength.js": {
+      "expectCount": 4,
+      "actualCount": 0,
+      "undocumentLines": [
+        3,
+        31,
+        33,
+        10
+      ]
+    },
+    "src/adt/ForestAmortizedHalving.js": {
+      "expectCount": 4,
+      "actualCount": 0,
+      "undocumentLines": [
+        3,
+        7,
+        22,
+        5
+      ]
+    },
+    "src/adt/LinkedListWithHead.js": {
+      "expectCount": 4,
+      "actualCount": 0,
+      "undocumentLines": [
+        3,
+        18,
+        20,
+        5
+      ]
+    },
+    "src/adt/ForestAmortizedTwoPasses.js": {
+      "expectCount": 4,
+      "actualCount": 0,
+      "undocumentLines": [
+        3,
+        7,
+        24,
+        5
+      ]
+    },
+    "src/adt/ForestAmortizedSplitting.js": {
+      "expectCount": 4,
+      "actualCount": 0,
+      "undocumentLines": [
+        3,
+        7,
+        22,
+        5
+      ]
+    },
+    "src/adt/ForestAmortizedRecursive.js": {
+      "expectCount": 4,
+      "actualCount": 0,
+      "undocumentLines": [
+        3,
+        7,
+        17,
+        5
+      ]
+    },
+    "src/fundamentals/RankedTreeNode.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        1
+      ]
+    },
+    "src/fundamentals/_makeset.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        1
+      ]
+    },
+    "src/tools/_prototype.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        1
+      ]
+    },
+    "src/fundamentals/linkedlistbackfind.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        1
+      ]
+    },
+    "src/fundamentals/linkedlistmakeset.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        4
+      ]
+    },
+    "src/fundamentals/rankedtreemakeset.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        4
+      ]
+    },
+    "src/fundamentals/rankedtreeunion.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        1
+      ]
+    }
+  }
+}
