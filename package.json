@@ -1,7 +1,7 @@
 {
   "name": "aureooms-js-disjoint-set",
   "description": "Disjoint-set data structures for JavaScript",
-  "version": "1.1.4",
+  "version": "2.0.0",
   "author": "Aurélien Ooms <aurelien.ooms@gmail.com>",
   "ava": {
     "require": [
