@@ -10,15 +10,16 @@ import {
 	ForestAmortizedSplitting ,
 	ForestAmortizedHalving ,
 	_prototype ,
+	_makeset ,
 } from '../../src' ;
 
 function macro ( t , Node , makeset , union , find ) {
 
 	let a , b , c , d , e , A , B , C , D , E ;
 
-	const l = ( x , y ) => t.ok( find( x ) === find( y ) ) ;
+	const l = ( x , y ) => t.true( find( x ) === find( y ) ) ;
 
-	const o = ( x , y ) => t.ok( find( x ) !== find( y ) ) ;
+	const o = ( x , y ) => t.true( find( x ) !== find( y ) ) ;
 
 	// 1st scenario
 
@@ -35,7 +36,6 @@ function macro ( t , Node , makeset , union , find ) {
 	o( a , e ) ; o( b , e ) ; o( c , e ) ; o( d , e ) ; l( e , e ) ;
 
 	A = union( A , E ) ;
-	delete E ;
 
 	l( a , a ) ; o( b , a ) ; o( c , a ) ; o( d , a ) ; l( e , a ) ;
 	o( a , b ) ; l( b , b ) ; o( c , b ) ; o( d , b ) ; o( e , b ) ;
@@ -44,7 +44,6 @@ function macro ( t , Node , makeset , union , find ) {
 	l( a , e ) ; o( b , e ) ; o( c , e ) ; o( d , e ) ; l( e , e ) ;
 
 	B = union( D , B ) ;
-	delete D ;
 
 	l( a , a ) ; o( b , a ) ; o( c , a ) ; o( d , a ) ; l( e , a ) ;
 	o( a , b ) ; l( b , b ) ; o( c , b ) ; l( d , b ) ; o( e , b ) ;
@@ -53,7 +52,6 @@ function macro ( t , Node , makeset , union , find ) {
 	l( a , e ) ; o( b , e ) ; o( c , e ) ; o( d , e ) ; l( e , e ) ;
 
 	A = union( C , A ) ;
-	delete C ;
 
 	l( a , a ) ; o( b , a ) ; l( c , a ) ; o( d , a ) ; l( e , a ) ;
 	o( a , b ) ; l( b , b ) ; o( c , b ) ; l( d , b ) ; o( e , b ) ;
@@ -62,7 +60,6 @@ function macro ( t , Node , makeset , union , find ) {
 	l( a , e ) ; o( b , e ) ; l( c , e ) ; o( d , e ) ; l( e , e ) ;
 
 	A = union( B , A ) ;
-	delete B ;
 
 	l( a , a ) ; l( b , a ) ; l( c , a ) ; l( d , a ) ; l( e , a ) ;
 	l( a , b ) ; l( b , b ) ; l( c , b ) ; l( d , b ) ; l( e , b ) ;
@@ -85,7 +82,6 @@ function macro ( t , Node , makeset , union , find ) {
 	o( a , e ) ; o( b , e ) ; o( c , e ) ; o( d , e ) ; l( e , e ) ;
 
 	A = union( A , E ) ;
-	delete E ;
 
 	l( a , a ) ; o( b , a ) ; o( c , a ) ; o( d , a ) ; l( e , a ) ;
 	o( a , b ) ; l( b , b ) ; o( c , b ) ; o( d , b ) ; o( e , b ) ;
@@ -94,7 +90,6 @@ function macro ( t , Node , makeset , union , find ) {
 	l( a , e ) ; o( b , e ) ; o( c , e ) ; o( d , e ) ; l( e , e ) ;
 
 	B = union( D , B ) ;
-	delete D ;
 
 	l( a , a ) ; o( b , a ) ; o( c , a ) ; o( d , a ) ; l( e , a ) ;
 	o( a , b ) ; l( b , b ) ; o( c , b ) ; l( d , b ) ; o( e , b ) ;
@@ -103,7 +98,6 @@ function macro ( t , Node , makeset , union , find ) {
 	l( a , e ) ; o( b , e ) ; o( c , e ) ; o( d , e ) ; l( e , e ) ;
 
 	A = union( A , C ) ;
-	delete C ;
 
 	l( a , a ) ; o( b , a ) ; l( c , a ) ; o( d , a ) ; l( e , a ) ;
 	o( a , b ) ; l( b , b ) ; o( c , b ) ; l( d , b ) ; o( e , b ) ;
@@ -112,7 +106,6 @@ function macro ( t , Node , makeset , union , find ) {
 	l( a , e ) ; o( b , e ) ; l( c , e ) ; o( d , e ) ; l( e , e ) ;
 
 	A = union( B , A ) ;
-	delete B ;
 
 	l( a , a ) ; l( b , a ) ; l( c , a ) ; l( d , a ) ; l( e , a ) ;
 	l( a , b ) ; l( b , b ) ; l( c , b ) ; l( d , b ) ; l( e , b ) ;
@@ -145,9 +138,9 @@ for ( const [ name , Set ] of [
 
 	const makeset = _makeset( Node ) ;
 
-	const union = ( a , b ) => return a.union( b ) ;
+	const union = ( a , b ) => a.union( b ) ;
 
-	const find = node => return node.find( ) ;
+	const find = node => node.find( ) ;
 
 	test( name + ' (prototype)' , macro , Node , makeset , union , find ) ;
 

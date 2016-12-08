@@ -1,43 +1,8 @@
 {
-  "bugs": {
-    "url": "https://github.com/aureooms/js-disjoint-set/issues"
-  },
-  "dependencies": {},
   "name": "aureooms-js-disjoint-set",
-  "homepage": "https://aureooms.github.io/js-disjoint-set",
-  "author": "Aurélien Ooms <aurelien.ooms@gmail.com>",
   "description": "Disjoint-set data structures for JavaScript",
-  "devDependencies": {
-    "aureooms-js-array": "^3.1.0",
-    "aureooms-js-functools": "^2.0.3",
-    "aureooms-js-itertools": "^3.1.1",
-    "ava": "^0.17.0",
-    "babel-cli": "^6.18.0",
-    "babel-polyfill": "^6.16.0",
-    "babel-preset-latest": "^6.16.0",
-    "codeclimate-test-reporter": "^0.4.0",
-    "coveralls": "^2.11.15",
-    "esdoc": "^0.4.8",
-    "nyc": "^10.0.0"
-  },
   "version": "1.1.4",
-  "main": "lib/index.js",
-  "license": "AGPL-3.0",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/aureooms/js-disjoint-set.git"
-  },
-  "keywords": [
-    "data",
-    "disjoint",
-    "find",
-    "javascript",
-    "js",
-    "merge",
-    "set",
-    "structures",
-    "union"
-  ],
+  "author": "Aurélien Ooms <aurelien.ooms@gmail.com>",
   "ava": {
     "require": [
       "babel-polyfill",
@@ -53,6 +18,41 @@
         "sourceMaps": "inline"
       }
     }
+  },
+  "bugs": {
+    "url": "https://github.com/aureooms/js-disjoint-set/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "aureooms-js-array": "^3.1.0",
+    "aureooms-js-functools": "^2.0.3",
+    "aureooms-js-itertools": "^3.1.1",
+    "ava": "^0.17.0",
+    "babel-cli": "^6.18.0",
+    "babel-polyfill": "^6.16.0",
+    "babel-preset-latest": "^6.16.0",
+    "codeclimate-test-reporter": "^0.4.0",
+    "coveralls": "^2.11.15",
+    "esdoc": "^0.4.8",
+    "nyc": "^10.0.0"
+  },
+  "homepage": "https://aureooms.github.io/js-disjoint-set",
+  "keywords": [
+    "data",
+    "disjoint",
+    "find",
+    "javascript",
+    "js",
+    "merge",
+    "set",
+    "structures",
+    "union"
+  ],
+  "license": "AGPL-3.0",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aureooms/js-disjoint-set.git"
   },
   "scripts": {
     "build": "babel src -d lib",

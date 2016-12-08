@@ -30,7 +30,6 @@ find( c ) === find( b ) ; // false
 find( c ) === find( c ) ; // true
 
 A = union( A , B ) ; // union( B , A ) would work too
-delete B ;
 
 find( a ) === find( a ) ; // true
 find( a ) === find( b ) ; // true
