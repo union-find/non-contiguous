@@ -14,9 +14,9 @@ union( A , B ) ;
 find( a ) === find( b ) ; // true
 ```
 
-[![License](https://img.shields.io/github/license/aureooms/js-disjoint-set.svg)](https://raw.githubusercontent.com/aureooms/js-disjoint-set/master/LICENSE)
+[![License](https://img.shields.io/github/license/aureooms/js-disjoint-set.svg)](https://raw.githubusercontent.com/aureooms/js-disjoint-set/main/LICENSE)
 [![Version](https://img.shields.io/npm/v/@aureooms/js-disjoint-set.svg)](https://www.npmjs.org/package/@aureooms/js-disjoint-set)
-[![Build](https://img.shields.io/travis/aureooms/js-disjoint-set/master.svg)](https://travis-ci.org/aureooms/js-disjoint-set/branches)
+[![Build](https://img.shields.io/travis/aureooms/js-disjoint-set/main.svg)](https://travis-ci.org/aureooms/js-disjoint-set/branches)
 [![Dependencies](https://img.shields.io/david/aureooms/js-disjoint-set.svg)](https://david-dm.org/aureooms/js-disjoint-set)
 [![Dev dependencies](https://img.shields.io/david/dev/aureooms/js-disjoint-set.svg)](https://david-dm.org/aureooms/js-disjoint-set?type=dev)
 [![GitHub issues](https://img.shields.io/github/issues/aureooms/js-disjoint-set.svg)](https://github.com/aureooms/js-disjoint-set/issues)
@@ -24,7 +24,7 @@ find( a ) === find( b ) ; // true
 
 [![Code issues](https://img.shields.io/codeclimate/issues/aureooms/js-disjoint-set.svg)](https://codeclimate.com/github/aureooms/js-disjoint-set/issues)
 [![Code maintainability](https://img.shields.io/codeclimate/maintainability/aureooms/js-disjoint-set.svg)](https://codeclimate.com/github/aureooms/js-disjoint-set/trends/churn)
-[![Code coverage (cov)](https://img.shields.io/codecov/c/gh/aureooms/js-disjoint-set/master.svg)](https://codecov.io/gh/aureooms/js-disjoint-set)
+[![Code coverage (cov)](https://img.shields.io/codecov/c/gh/aureooms/js-disjoint-set/main.svg)](https://codecov.io/gh/aureooms/js-disjoint-set)
 [![Code technical debt](https://img.shields.io/codeclimate/tech-debt/aureooms/js-disjoint-set.svg)](https://codeclimate.com/github/aureooms/js-disjoint-set/trends/technical_debt)
 [![Documentation](https://aureooms.github.io/js-disjoint-set/badge.svg)](https://aureooms.github.io/js-disjoint-set/source.html)
 [![Package size](https://img.shields.io/bundlephobia/minzip/@aureooms/js-disjoint-set)](https://bundlephobia.com/result?p=@aureooms/js-disjoint-set)
