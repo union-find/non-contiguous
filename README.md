@@ -1,7 +1,17 @@
-[@aureooms/js-disjoint-set](https://aureooms.github.io/js-disjoint-set)
+:rice_ball: [@aureooms/js-disjoint-set](https://aureooms.github.io/js-disjoint-set)
 ==
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Disjuct-sets.svg" width="864">
+<p align="center">
+<a href="https://commons.wikimedia.org/wiki/File:Disjuct-sets.svg">
+<img alt="A collection of disjoint sets" src="https://upload.wikimedia.org/wikipedia/commons/8/89/Disjuct-sets.svg" width="300">
+</a><br/>
+<a href="https://commons.wikimedia.org/w/index.php?title=User:Svjo">
+User:Svjo
+</a>
+/
+<a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>
+</p>
+
 
 Disjoint-set data structures for JavaScript.
 See [docs](https://aureooms.github.io/js-disjoint-set).
@@ -29,11 +39,11 @@ find( a ) === find( b ) ; // true
 [![Documentation](https://aureooms.github.io/js-disjoint-set/badge.svg)](https://aureooms.github.io/js-disjoint-set/source.html)
 [![Package size](https://img.shields.io/bundlephobia/minzip/@aureooms/js-disjoint-set)](https://bundlephobia.com/result?p=@aureooms/js-disjoint-set)
 
-## Related
+## :dancing_women: Related
 
   - [aureooms/js-fixed-disjoint-set](https://github.com/aureooms/js-fixed-disjoint-set):
     implementation of the same data structures with arrays instead of nodes and pointers
 
-## References
+## :scroll: References
 
   - [Wikipedia page on disjoint-set data structures](https://en.wikipedia.org/wiki/Disjoint-set_data_structure)
