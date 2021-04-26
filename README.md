@@ -1,4 +1,4 @@
-:rice_ball: [@aureooms/js-disjoint-set](https://aureooms.github.io/js-disjoint-set)
+:rice_ball: [@aureooms/js-disjoint-set](https://make-github-pseudonymous-again.github.io/js-disjoint-set)
 ==
 
 <p align="center">
@@ -14,7 +14,7 @@ User:Svjo
 
 
 Disjoint-set data structures for JavaScript.
-See [docs](https://aureooms.github.io/js-disjoint-set).
+See [docs](https://make-github-pseudonymous-again.github.io/js-disjoint-set).
 Parent is
 [@aureooms/js-data-structures](https://github.com/aureooms/js-data-structures).
 
@@ -36,7 +36,7 @@ find( a ) === find( b ) ; // true
 [![Code maintainability](https://img.shields.io/codeclimate/maintainability/aureooms/js-disjoint-set.svg)](https://codeclimate.com/github/aureooms/js-disjoint-set/trends/churn)
 [![Code coverage (cov)](https://img.shields.io/codecov/c/gh/aureooms/js-disjoint-set/main.svg)](https://codecov.io/gh/aureooms/js-disjoint-set)
 [![Code technical debt](https://img.shields.io/codeclimate/tech-debt/aureooms/js-disjoint-set.svg)](https://codeclimate.com/github/aureooms/js-disjoint-set/trends/technical_debt)
-[![Documentation](https://aureooms.github.io/js-disjoint-set/badge.svg)](https://aureooms.github.io/js-disjoint-set/source.html)
+[![Documentation](https://make-github-pseudonymous-again.github.io/js-disjoint-set/badge.svg)](https://make-github-pseudonymous-again.github.io/js-disjoint-set/source.html)
 [![Package size](https://img.shields.io/bundlephobia/minzip/@aureooms/js-disjoint-set)](https://bundlephobia.com/result?p=@aureooms/js-disjoint-set)
 
 ## :dancing_women: Related
