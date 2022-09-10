@@ -116,7 +116,7 @@
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/union-find/non-contiguous.git"
+    "url": "https://github.com/union-find/non-contiguous"
   },
   "scripts": {
     "build": "babel --delete-dir-on-start --env-name production src -d lib",
