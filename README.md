@@ -40,8 +40,9 @@ find( a ) === find( b ) ; // true
 
 ## :dancing_women: Related
 
-  - [@union-find/contiguous](https://github.com/union-find/contiguous):
-    implementation of the same data structures with arrays instead of nodes and pointers
+  - [`@union-find/contiguous`](https://github.com/union-find/contiguous):
+    Implementation of the same data structures with arrays instead of nodes and
+    pointers.
 
 ## :scroll: References
 
