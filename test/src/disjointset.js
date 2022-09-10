@@ -11,7 +11,7 @@ import {
 	ForestAmortizedHalving,
 	_prototype,
 	_makeset,
-} from '../../src/index.js';
+} from '#module';
 
 function macro(t, makeset, union, find) {
 	/* eslint-disable no-multi-assign */
