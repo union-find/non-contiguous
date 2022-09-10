@@ -10,7 +10,9 @@
 //   - LinkedListWithHeadAndLength
 //   - LinkedListWithHead
 
-let { makeset , union , find } = disjointset.ForestAmortizedHalving ;
+import { ForestAmortizedHalving } from '@union-find/non-contiguous' ;
+
+let { makeset , union , find } = ForestAmortizedHalving ;
 
 let a , b , c , A , B , C ;
 

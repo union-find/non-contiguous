@@ -1,15 +1,8 @@
 # Usage
-The code needs a ES2015+ polyfill to work, for example
-[regenerator-runtime/runtime](https://babeljs.io/docs/usage/polyfill).
-```js
-await import( 'regenerator-runtime/runtime.js' ) ;
-// or
-import 'regenerator-runtime/runtime.js' ;
-```
 
-Then
+Import the library where needed
 ```js
-const disjointset = await import( '@union-find/non-contiguous' ) ;
+const implementations = await import( '@union-find/non-contiguous' ) ;
 // or
-import disjointset from '@union-find/non-contiguous' ;
+import * as implementations from '@union-find/non-contiguous' ;
 ```

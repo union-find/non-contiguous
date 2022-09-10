@@ -14,7 +14,7 @@ User:Svjo
 
 
 Disjoint-set data structures for JavaScript.
-See [docs](https://union-find.github.io/non-contiguous).
+See [docs](https://union-find.github.io/non-contiguous/index.html).
 Parent is
 [js-data-structures](https://github.com/make-github-pseudonymous-again/js-data-structures).
 
