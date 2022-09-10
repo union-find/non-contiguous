@@ -1,11 +1,9 @@
-export default function _prototype ( Set , union , find ) {
+export default function _prototype(DisjointSet, union, find) {
+	DisjointSet.prototype.union = function (other) {
+		return union(this, other);
+	};
 
-	Set.prototype.union = function ( other ) {
-		return union( this , other ) ;
-	} ;
-
-	Set.prototype.find = function ( ) {
-		return find( this ) ;
-	} ;
-
+	DisjointSet.prototype.find = function () {
+		return find(this);
+	};
 }

@@ -1,9 +1,1 @@
-import _prototype from './_prototype.js' ;
-
-export default {
-	_prototype ,
-} ;
-
-export {
-	_prototype ,
-} ;
+export {default as _prototype} from './_prototype.js';

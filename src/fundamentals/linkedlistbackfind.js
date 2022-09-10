@@ -1,5 +1,3 @@
-export default function linkedlistbackfind ( node ) {
-
-	return node.back ;
-
+export default function linkedlistbackfind(node) {
+	return node.back;
 }

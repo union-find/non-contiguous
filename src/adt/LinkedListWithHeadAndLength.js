@@ -1,40 +1,30 @@
-import { linkedlistbackfind , _makeset } from '../fundamentals/index.js'
+import {_makeset} from '../fundamentals/index.js';
 
-export function Node ( value ) {
-	this.length = 1 ;
-	this.back = this ;
-	this.next = null ;
-	this.value = value ;
+export function Node(value) {
+	this.length = 1;
+	this.back = this;
+	this.next = null;
+	this.value = value;
 }
 
-export function union ( a , b ) {
-
-	if ( a.length < b.length ) {
-		let it =  a ;
-		a  =  b ;
-		b  = it ;
+export const union = (a, b) => {
+	if (a.length < b.length) {
+		const it = a;
+		a = b;
+		b = it;
 	}
 
-	a.back.next = b ;
-	a.back = b.back ;
+	a.back.next = b;
+	a.back = b.back;
 
-	for ( let it = a.next ; it !== b ; it = it.next ) {
-		it.back = b.back ;
+	for (let it = a.next; it !== b; it = it.next) {
+		it.back = b.back;
 	}
 
-	a.length += b.length ;
+	a.length += b.length;
 
-	return a ;
+	return a;
+};
 
-}
-
-export const find = linkedlistbackfind ;
-
-export const makeset = _makeset( Node ) ;
-
-export default {
-	Node,
-	union,
-	find,
-	makeset
-} ;
+export const makeset = _makeset(Node);
+export {linkedlistbackfind as find} from '../fundamentals/index.js';

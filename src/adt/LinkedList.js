@@ -1,30 +1,18 @@
-import { LinkedListNode , linkedlistmakeset } from '../fundamentals/index.js'
+export const union = (a, b) => {
+	a.back.next = b;
+	a.back = b.back;
+	return a;
+};
 
-export const Node = LinkedListNode ;
-
-export function union ( a , b ) {
-
-	a.back.next = b ;
-	a.back = b.back ;
-	return a ;
-
-}
-
-export function find ( node ) {
-
-	while ( node.next !== null ) {
-		node = node.next ;
+export const find = (node) => {
+	while (node.next !== null) {
+		node = node.next;
 	}
 
-	return node ;
+	return node;
+};
 
-}
-
-export const makeset = linkedlistmakeset ;
-
-export default {
-	Node,
-	union,
-	find,
-	makeset
-} ;
+export {
+	LinkedListNode as Node,
+	linkedlistmakeset as makeset,
+} from '../fundamentals/index.js';

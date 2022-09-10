@@ -1,33 +1,22 @@
-import { _makeset } from '../fundamentals/index.js'
+import {_makeset} from '../fundamentals/index.js';
 
-export function Node ( value ) {
-	this.parent = this ;
-	this.value = value ;
+export function Node(value) {
+	this.parent = this;
+	this.value = value;
 }
 
-export function union ( a , b ) {
+export const union = (a, b) => {
+	find(b).parent = find(a);
 
-	find( b ).parent = find( a ) ;
+	return a;
+};
 
-	return a ;
-
-}
-
-export function find ( node ) {
-
-	while ( node !== node.parent ) {
-		node = node.parent ;
+export const find = (node) => {
+	while (node !== node.parent) {
+		node = node.parent;
 	}
 
-	return node ;
+	return node;
+};
 
-}
-
-export const makeset = _makeset( Node ) ;
-
-export default {
-	Node,
-	union,
-	find,
-	makeset
-} ;
+export const makeset = _makeset(Node);
