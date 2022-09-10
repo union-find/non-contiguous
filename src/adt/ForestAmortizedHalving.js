@@ -1,4 +1,4 @@
-import { RankedTreeNode , rankedtreeunion , rankedtreemakeset } from '../fundamentals'
+import { RankedTreeNode , rankedtreeunion , rankedtreemakeset } from '../fundamentals/index.js'
 
 export const Node = RankedTreeNode ;
 

@@ -1,4 +1,4 @@
-import { _makeset } from '../fundamentals'
+import { _makeset } from '../fundamentals/index.js'
 
 export function Node ( value ) {
 	this.parent = this ;

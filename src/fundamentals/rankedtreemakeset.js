@@ -1,5 +1,5 @@
-import _makeset from './_makeset' ;
-import RankedTreeNode from './RankedTreeNode' ;
+import _makeset from './_makeset.js' ;
+import RankedTreeNode from './RankedTreeNode.js' ;
 
 const rankedtreemakeset = _makeset( RankedTreeNode ) ;
 export default rankedtreemakeset ;

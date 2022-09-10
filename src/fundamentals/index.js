@@ -1,10 +1,10 @@
-import LinkedListNode from './LinkedListNode' ;
-import RankedTreeNode from './RankedTreeNode' ;
-import _makeset from './_makeset' ;
-import linkedlistbackfind from './linkedlistbackfind' ;
-import linkedlistmakeset from './linkedlistmakeset' ;
-import rankedtreemakeset from './rankedtreemakeset' ;
-import rankedtreeunion from './rankedtreeunion' ;
+import LinkedListNode from './LinkedListNode.js' ;
+import RankedTreeNode from './RankedTreeNode.js' ;
+import _makeset from './_makeset.js' ;
+import linkedlistbackfind from './linkedlistbackfind.js' ;
+import linkedlistmakeset from './linkedlistmakeset.js' ;
+import rankedtreemakeset from './rankedtreemakeset.js' ;
+import rankedtreeunion from './rankedtreeunion.js' ;
 
 export default {
 	LinkedListNode ,

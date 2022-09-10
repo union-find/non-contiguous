@@ -11,7 +11,7 @@ import {
 	ForestAmortizedHalving ,
 	_prototype ,
 	_makeset ,
-} from '../../src' ;
+} from '../../src/index.js' ;
 
 function macro ( t , Node , makeset , union , find ) {
 

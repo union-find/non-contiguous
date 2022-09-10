@@ -1,4 +1,4 @@
-import { linkedlistbackfind , _makeset } from '../fundamentals'
+import { linkedlistbackfind , _makeset } from '../fundamentals/index.js'
 
 export function Node ( value ) {
 	this.length = 1 ;

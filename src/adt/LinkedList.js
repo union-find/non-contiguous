@@ -1,4 +1,4 @@
-import { LinkedListNode , linkedlistmakeset } from '../fundamentals'
+import { LinkedListNode , linkedlistmakeset } from '../fundamentals/index.js'
 
 export const Node = LinkedListNode ;
 

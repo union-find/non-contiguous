@@ -1,4 +1,4 @@
-import _prototype from './_prototype' ;
+import _prototype from './_prototype.js' ;
 
 export default {
 	_prototype ,

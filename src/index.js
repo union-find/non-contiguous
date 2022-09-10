@@ -7,7 +7,7 @@ import {
 	LinkedList ,
 	LinkedListWithHead ,
 	LinkedListWithHeadAndLength ,
-} from './adt' ;
+} from './adt/index.js' ;
 
 import {
 	LinkedListNode ,
@@ -17,9 +17,9 @@ import {
 	linkedlistmakeset ,
 	rankedtreemakeset ,
 	rankedtreeunion ,
-} from './fundamentals' ;
+} from './fundamentals/index.js' ;
 
-import { _prototype } from './tools'
+import { _prototype } from './tools/index.js'
 
 export default {
 	Forest ,
