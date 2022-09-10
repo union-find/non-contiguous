@@ -1,8 +1,8 @@
 {
-  "name": "@aureooms/js-disjoint-set",
+  "name": "@union-find/non-contiguous",
   "description": "Disjoint-set data structures for JavaScript",
   "version": "2.0.0",
-  "author": "Aurélien Ooms <aurelien.ooms@gmail.com>",
+  "author": "make-github-pseudonymous-again",
   "ava": {
     "require": [
       "regenerator-runtime/runtime",
@@ -74,7 +74,7 @@
     }
   },
   "bugs": {
-    "url": "https://github.com/make-github-pseudonymous-again/js-disjoint-set/issues"
+    "url": "https://github.com/union-find/non-contiguous/issues"
   },
   "dependencies": {},
   "devDependencies": {
@@ -102,7 +102,7 @@
   "files": [
     "lib"
   ],
-  "homepage": "https://make-github-pseudonymous-again.github.io/js-disjoint-set",
+  "homepage": "https://union-find.github.io/non-contiguous",
   "keywords": [
     "data",
     "disjoint",
@@ -118,7 +118,7 @@
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/make-github-pseudonymous-again/js-disjoint-set.git"
+    "url": "https://github.com/union-find/non-contiguous.git"
   },
   "scripts": {
     "build": "babel --delete-dir-on-start --env-name production src -d lib",

@@ -9,7 +9,7 @@ import 'regenerator-runtime/runtime' ;
 
 Then
 ```js
-const disjointset = require( '@aureooms/js-disjoint-set' ) ;
+const disjointset = require( '@union-find/non-contiguous' ) ;
 // or
-import disjointset from '@aureooms/js-disjoint-set' ;
+import disjointset from '@union-find/non-contiguous' ;
 ```

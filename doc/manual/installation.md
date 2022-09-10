@@ -5,10 +5,10 @@ or [npm](https://github.com/npm/npm).
 
 ### jspm
 ```terminal
-jspm install npm:@aureooms/js-disjoint-set
+jspm install npm:@union-find/non-contiguous
 ```
 
 ### npm
 ```terminal
-npm install @aureooms/js-disjoint-set --save
+npm install @union-find/non-contiguous --save
 ```
