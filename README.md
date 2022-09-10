@@ -27,8 +27,7 @@ find( a ) === find( b ) ; // true
 [![License](https://img.shields.io/github/license/union-find/non-contiguous.svg)](https://raw.githubusercontent.com/union-find/non-contiguous/main/LICENSE)
 [![Version](https://img.shields.io/npm/v/@union-find/non-contiguous.svg)](https://www.npmjs.org/package/@union-find/non-contiguous)
 [![Build](https://img.shields.io/travis/union-find/non-contiguous/main.svg)](https://travis-ci.org/union-find/non-contiguous/branches)
-[![Dependencies](https://img.shields.io/david/union-find/non-contiguous.svg)](https://david-dm.org/union-find/non-contiguous)
-[![Dev dependencies](https://img.shields.io/david/dev/union-find/non-contiguous.svg)](https://david-dm.org/union-find/non-contiguous?type=dev)
+[![Dependencies](https://img.shields.io/librariesio/github/union-find/non-contiguous.svg)](https://github.com/union-find/non-contiguous/network/dependencies)
 [![GitHub issues](https://img.shields.io/github/issues/union-find/non-contiguous.svg)](https://github.com/union-find/non-contiguous/issues)
 [![Downloads](https://img.shields.io/npm/dm/@union-find/non-contiguous.svg)](https://www.npmjs.org/package/@union-find/non-contiguous)
 
