@@ -1,572 +1,416 @@
 window.esdocSearchIndex = [
   [
-    "aureooms-js-disjoint-set/src/fundamentals/linkedlistnode.js~linkedlistnode",
+    "@union-find/non-contiguous/src/fundamentals/linkedlistnode.js~linkedlistnode",
     "function/index.html#static-function-LinkedListNode",
-    "<span>LinkedListNode</span> <span class=\"search-result-import-path\">aureooms-js-disjoint-set/src/fundamentals/LinkedListNode.js</span>",
+    "<span>LinkedListNode</span> <span class=\"search-result-import-path\">@union-find/non-contiguous/src/fundamentals/LinkedListNode.js</span>",
     "function"
   ],
   [
-    "aureooms-js-disjoint-set/src/adt/forest.js~node",
+    "@union-find/non-contiguous/src/adt/forest.js~node",
     "function/index.html#static-function-Node",
-    "<span>Node</span> <span class=\"search-result-import-path\">aureooms-js-disjoint-set/src/adt/Forest.js</span>",
+    "<span>Node</span> <span class=\"search-result-import-path\">@union-find/non-contiguous/src/adt/Forest.js</span>",
     "function"
   ],
   [
-    "aureooms-js-disjoint-set/src/adt/forestamortizedhalving.js~node",
-    "variable/index.html#static-variable-Node",
-    "<span>Node</span> <span class=\"search-result-import-path\">aureooms-js-disjoint-set/src/adt/ForestAmortizedHalving.js</span>",
-    "variable"
-  ],
-  [
-    "aureooms-js-disjoint-set/src/adt/forestamortizedrecursive.js~node",
-    "variable/index.html#static-variable-Node",
-    "<span>Node</span> <span class=\"search-result-import-path\">aureooms-js-disjoint-set/src/adt/ForestAmortizedRecursive.js</span>",
-    "variable"
-  ],
-  [
-    "aureooms-js-disjoint-set/src/adt/forestamortizedsplitting.js~node",
-    "variable/index.html#static-variable-Node",
-    "<span>Node</span> <span class=\"search-result-import-path\">aureooms-js-disjoint-set/src/adt/ForestAmortizedSplitting.js</span>",
-    "variable"
-  ],
-  [
-    "aureooms-js-disjoint-set/src/adt/forestamortizedtwopasses.js~node",
-    "variable/index.html#static-variable-Node",
-    "<span>Node</span> <span class=\"search-result-import-path\">aureooms-js-disjoint-set/src/adt/ForestAmortizedTwoPasses.js</span>",
-    "variable"
-  ],
-  [
-    "aureooms-js-disjoint-set/src/adt/linkedlist.js~node",
-    "variable/index.html#static-variable-Node",
-    "<span>Node</span> <span class=\"search-result-import-path\">aureooms-js-disjoint-set/src/adt/LinkedList.js</span>",
-    "variable"
-  ],
-  [
-    "aureooms-js-disjoint-set/src/adt/linkedlistwithhead.js~node",
-    "variable/index.html#static-variable-Node",
-    "<span>Node</span> <span class=\"search-result-import-path\">aureooms-js-disjoint-set/src/adt/LinkedListWithHead.js</span>",
-    "variable"
-  ],
-  [
-    "aureooms-js-disjoint-set/src/adt/linkedlistwithheadandlength.js~node",
+    "@union-find/non-contiguous/src/adt/linkedlistwithheadandlength.js~node",
     "function/index.html#static-function-Node",
-    "<span>Node</span> <span class=\"search-result-import-path\">aureooms-js-disjoint-set/src/adt/LinkedListWithHeadAndLength.js</span>",
+    "<span>Node</span> <span class=\"search-result-import-path\">@union-find/non-contiguous/src/adt/LinkedListWithHeadAndLength.js</span>",
     "function"
   ],
   [
-    "aureooms-js-disjoint-set/src/fundamentals/rankedtreenode.js~rankedtreenode",
+    "@union-find/non-contiguous/src/fundamentals/rankedtreenode.js~rankedtreenode",
     "function/index.html#static-function-RankedTreeNode",
-    "<span>RankedTreeNode</span> <span class=\"search-result-import-path\">aureooms-js-disjoint-set/src/fundamentals/RankedTreeNode.js</span>",
+    "<span>RankedTreeNode</span> <span class=\"search-result-import-path\">@union-find/non-contiguous/src/fundamentals/RankedTreeNode.js</span>",
     "function"
   ],
   [
-    "aureooms-js-disjoint-set/src/fundamentals/_makeset.js~_makeset",
+    "@union-find/non-contiguous/src/fundamentals/_makeset.js~_makeset",
     "function/index.html#static-function-_makeset",
-    "<span>_makeset</span> <span class=\"search-result-import-path\">aureooms-js-disjoint-set/src/fundamentals/_makeset.js</span>",
+    "<span>_makeset</span> <span class=\"search-result-import-path\">@union-find/non-contiguous/src/fundamentals/_makeset.js</span>",
     "function"
   ],
   [
-    "aureooms-js-disjoint-set/src/tools/_prototype.js~_prototype",
+    "@union-find/non-contiguous/src/tools/_prototype.js~_prototype",
     "function/index.html#static-function-_prototype",
-    "<span>_prototype</span> <span class=\"search-result-import-path\">aureooms-js-disjoint-set/src/tools/_prototype.js</span>",
+    "<span>_prototype</span> <span class=\"search-result-import-path\">@union-find/non-contiguous/src/tools/_prototype.js</span>",
     "function"
   ],
   [
-    "aureooms-js-disjoint-set/src/adt/forest.js~find",
+    "@union-find/non-contiguous/src/adt/forest.js~find",
     "function/index.html#static-function-find",
-    "<span>find</span> <span class=\"search-result-import-path\">aureooms-js-disjoint-set/src/adt/Forest.js</span>",
+    "<span>find</span> <span class=\"search-result-import-path\">@union-find/non-contiguous/src/adt/Forest.js</span>",
     "function"
   ],
   [
-    "aureooms-js-disjoint-set/src/adt/forestamortizedhalving.js~find",
+    "@union-find/non-contiguous/src/adt/forestamortizedhalving.js~find",
     "function/index.html#static-function-find",
-    "<span>find</span> <span class=\"search-result-import-path\">aureooms-js-disjoint-set/src/adt/ForestAmortizedHalving.js</span>",
+    "<span>find</span> <span class=\"search-result-import-path\">@union-find/non-contiguous/src/adt/ForestAmortizedHalving.js</span>",
     "function"
   ],
   [
-    "aureooms-js-disjoint-set/src/adt/forestamortizedrecursive.js~find",
+    "@union-find/non-contiguous/src/adt/forestamortizedrecursive.js~find",
     "function/index.html#static-function-find",
-    "<span>find</span> <span class=\"search-result-import-path\">aureooms-js-disjoint-set/src/adt/ForestAmortizedRecursive.js</span>",
+    "<span>find</span> <span class=\"search-result-import-path\">@union-find/non-contiguous/src/adt/ForestAmortizedRecursive.js</span>",
     "function"
   ],
   [
-    "aureooms-js-disjoint-set/src/adt/forestamortizedsplitting.js~find",
+    "@union-find/non-contiguous/src/adt/forestamortizedsplitting.js~find",
     "function/index.html#static-function-find",
-    "<span>find</span> <span class=\"search-result-import-path\">aureooms-js-disjoint-set/src/adt/ForestAmortizedSplitting.js</span>",
+    "<span>find</span> <span class=\"search-result-import-path\">@union-find/non-contiguous/src/adt/ForestAmortizedSplitting.js</span>",
     "function"
   ],
   [
-    "aureooms-js-disjoint-set/src/adt/forestamortizedtwopasses.js~find",
+    "@union-find/non-contiguous/src/adt/forestamortizedtwopasses.js~find",
     "function/index.html#static-function-find",
-    "<span>find</span> <span class=\"search-result-import-path\">aureooms-js-disjoint-set/src/adt/ForestAmortizedTwoPasses.js</span>",
+    "<span>find</span> <span class=\"search-result-import-path\">@union-find/non-contiguous/src/adt/ForestAmortizedTwoPasses.js</span>",
     "function"
   ],
   [
-    "aureooms-js-disjoint-set/src/adt/linkedlist.js~find",
+    "@union-find/non-contiguous/src/adt/linkedlist.js~find",
     "function/index.html#static-function-find",
-    "<span>find</span> <span class=\"search-result-import-path\">aureooms-js-disjoint-set/src/adt/LinkedList.js</span>",
+    "<span>find</span> <span class=\"search-result-import-path\">@union-find/non-contiguous/src/adt/LinkedList.js</span>",
     "function"
   ],
   [
-    "aureooms-js-disjoint-set/src/adt/linkedlistwithhead.js~find",
-    "variable/index.html#static-variable-find",
-    "<span>find</span> <span class=\"search-result-import-path\">aureooms-js-disjoint-set/src/adt/LinkedListWithHead.js</span>",
-    "variable"
-  ],
-  [
-    "aureooms-js-disjoint-set/src/adt/linkedlistwithheadandlength.js~find",
-    "variable/index.html#static-variable-find",
-    "<span>find</span> <span class=\"search-result-import-path\">aureooms-js-disjoint-set/src/adt/LinkedListWithHeadAndLength.js</span>",
-    "variable"
-  ],
-  [
-    "aureooms-js-disjoint-set/src/fundamentals/linkedlistbackfind.js~linkedlistbackfind",
+    "@union-find/non-contiguous/src/fundamentals/linkedlistbackfind.js~linkedlistbackfind",
     "function/index.html#static-function-linkedlistbackfind",
-    "<span>linkedlistbackfind</span> <span class=\"search-result-import-path\">aureooms-js-disjoint-set/src/fundamentals/linkedlistbackfind.js</span>",
+    "<span>linkedlistbackfind</span> <span class=\"search-result-import-path\">@union-find/non-contiguous/src/fundamentals/linkedlistbackfind.js</span>",
     "function"
   ],
   [
-    "aureooms-js-disjoint-set/src/fundamentals/linkedlistmakeset.js~linkedlistmakeset",
+    "@union-find/non-contiguous/src/fundamentals/linkedlistmakeset.js~linkedlistmakeset",
     "variable/index.html#static-variable-linkedlistmakeset",
-    "<span>linkedlistmakeset</span> <span class=\"search-result-import-path\">aureooms-js-disjoint-set/src/fundamentals/linkedlistmakeset.js</span>",
+    "<span>linkedlistmakeset</span> <span class=\"search-result-import-path\">@union-find/non-contiguous/src/fundamentals/linkedlistmakeset.js</span>",
     "variable"
   ],
   [
-    "aureooms-js-disjoint-set/src/adt/forest.js~makeset",
+    "@union-find/non-contiguous/src/adt/forest.js~makeset",
     "variable/index.html#static-variable-makeset",
-    "<span>makeset</span> <span class=\"search-result-import-path\">aureooms-js-disjoint-set/src/adt/Forest.js</span>",
+    "<span>makeset</span> <span class=\"search-result-import-path\">@union-find/non-contiguous/src/adt/Forest.js</span>",
     "variable"
   ],
   [
-    "aureooms-js-disjoint-set/src/adt/forestamortizedhalving.js~makeset",
+    "@union-find/non-contiguous/src/adt/linkedlistwithheadandlength.js~makeset",
     "variable/index.html#static-variable-makeset",
-    "<span>makeset</span> <span class=\"search-result-import-path\">aureooms-js-disjoint-set/src/adt/ForestAmortizedHalving.js</span>",
+    "<span>makeset</span> <span class=\"search-result-import-path\">@union-find/non-contiguous/src/adt/LinkedListWithHeadAndLength.js</span>",
     "variable"
   ],
   [
-    "aureooms-js-disjoint-set/src/adt/forestamortizedrecursive.js~makeset",
-    "variable/index.html#static-variable-makeset",
-    "<span>makeset</span> <span class=\"search-result-import-path\">aureooms-js-disjoint-set/src/adt/ForestAmortizedRecursive.js</span>",
-    "variable"
-  ],
-  [
-    "aureooms-js-disjoint-set/src/adt/forestamortizedsplitting.js~makeset",
-    "variable/index.html#static-variable-makeset",
-    "<span>makeset</span> <span class=\"search-result-import-path\">aureooms-js-disjoint-set/src/adt/ForestAmortizedSplitting.js</span>",
-    "variable"
-  ],
-  [
-    "aureooms-js-disjoint-set/src/adt/forestamortizedtwopasses.js~makeset",
-    "variable/index.html#static-variable-makeset",
-    "<span>makeset</span> <span class=\"search-result-import-path\">aureooms-js-disjoint-set/src/adt/ForestAmortizedTwoPasses.js</span>",
-    "variable"
-  ],
-  [
-    "aureooms-js-disjoint-set/src/adt/linkedlist.js~makeset",
-    "variable/index.html#static-variable-makeset",
-    "<span>makeset</span> <span class=\"search-result-import-path\">aureooms-js-disjoint-set/src/adt/LinkedList.js</span>",
-    "variable"
-  ],
-  [
-    "aureooms-js-disjoint-set/src/adt/linkedlistwithhead.js~makeset",
-    "variable/index.html#static-variable-makeset",
-    "<span>makeset</span> <span class=\"search-result-import-path\">aureooms-js-disjoint-set/src/adt/LinkedListWithHead.js</span>",
-    "variable"
-  ],
-  [
-    "aureooms-js-disjoint-set/src/adt/linkedlistwithheadandlength.js~makeset",
-    "variable/index.html#static-variable-makeset",
-    "<span>makeset</span> <span class=\"search-result-import-path\">aureooms-js-disjoint-set/src/adt/LinkedListWithHeadAndLength.js</span>",
-    "variable"
-  ],
-  [
-    "aureooms-js-disjoint-set/src/fundamentals/rankedtreemakeset.js~rankedtreemakeset",
+    "@union-find/non-contiguous/src/fundamentals/rankedtreemakeset.js~rankedtreemakeset",
     "variable/index.html#static-variable-rankedtreemakeset",
-    "<span>rankedtreemakeset</span> <span class=\"search-result-import-path\">aureooms-js-disjoint-set/src/fundamentals/rankedtreemakeset.js</span>",
+    "<span>rankedtreemakeset</span> <span class=\"search-result-import-path\">@union-find/non-contiguous/src/fundamentals/rankedtreemakeset.js</span>",
     "variable"
   ],
   [
-    "aureooms-js-disjoint-set/src/fundamentals/rankedtreeunion.js~rankedtreeunion",
+    "@union-find/non-contiguous/src/fundamentals/rankedtreeunion.js~rankedtreeunion",
     "function/index.html#static-function-rankedtreeunion",
-    "<span>rankedtreeunion</span> <span class=\"search-result-import-path\">aureooms-js-disjoint-set/src/fundamentals/rankedtreeunion.js</span>",
+    "<span>rankedtreeunion</span> <span class=\"search-result-import-path\">@union-find/non-contiguous/src/fundamentals/rankedtreeunion.js</span>",
     "function"
   ],
   [
-    "aureooms-js-disjoint-set/src/adt/forest.js~union",
+    "@union-find/non-contiguous/src/adt/forest.js~union",
     "function/index.html#static-function-union",
-    "<span>union</span> <span class=\"search-result-import-path\">aureooms-js-disjoint-set/src/adt/Forest.js</span>",
+    "<span>union</span> <span class=\"search-result-import-path\">@union-find/non-contiguous/src/adt/Forest.js</span>",
     "function"
   ],
   [
-    "aureooms-js-disjoint-set/src/adt/forestamortizedhalving.js~union",
-    "variable/index.html#static-variable-union",
-    "<span>union</span> <span class=\"search-result-import-path\">aureooms-js-disjoint-set/src/adt/ForestAmortizedHalving.js</span>",
-    "variable"
-  ],
-  [
-    "aureooms-js-disjoint-set/src/adt/forestamortizedrecursive.js~union",
-    "variable/index.html#static-variable-union",
-    "<span>union</span> <span class=\"search-result-import-path\">aureooms-js-disjoint-set/src/adt/ForestAmortizedRecursive.js</span>",
-    "variable"
-  ],
-  [
-    "aureooms-js-disjoint-set/src/adt/forestamortizedsplitting.js~union",
-    "variable/index.html#static-variable-union",
-    "<span>union</span> <span class=\"search-result-import-path\">aureooms-js-disjoint-set/src/adt/ForestAmortizedSplitting.js</span>",
-    "variable"
-  ],
-  [
-    "aureooms-js-disjoint-set/src/adt/forestamortizedtwopasses.js~union",
-    "variable/index.html#static-variable-union",
-    "<span>union</span> <span class=\"search-result-import-path\">aureooms-js-disjoint-set/src/adt/ForestAmortizedTwoPasses.js</span>",
-    "variable"
-  ],
-  [
-    "aureooms-js-disjoint-set/src/adt/linkedlist.js~union",
+    "@union-find/non-contiguous/src/adt/linkedlist.js~union",
     "function/index.html#static-function-union",
-    "<span>union</span> <span class=\"search-result-import-path\">aureooms-js-disjoint-set/src/adt/LinkedList.js</span>",
+    "<span>union</span> <span class=\"search-result-import-path\">@union-find/non-contiguous/src/adt/LinkedList.js</span>",
     "function"
   ],
   [
-    "aureooms-js-disjoint-set/src/adt/linkedlistwithhead.js~union",
+    "@union-find/non-contiguous/src/adt/linkedlistwithhead.js~union",
     "function/index.html#static-function-union",
-    "<span>union</span> <span class=\"search-result-import-path\">aureooms-js-disjoint-set/src/adt/LinkedListWithHead.js</span>",
+    "<span>union</span> <span class=\"search-result-import-path\">@union-find/non-contiguous/src/adt/LinkedListWithHead.js</span>",
     "function"
   ],
   [
-    "aureooms-js-disjoint-set/src/adt/linkedlistwithheadandlength.js~union",
+    "@union-find/non-contiguous/src/adt/linkedlistwithheadandlength.js~union",
     "function/index.html#static-function-union",
-    "<span>union</span> <span class=\"search-result-import-path\">aureooms-js-disjoint-set/src/adt/LinkedListWithHeadAndLength.js</span>",
+    "<span>union</span> <span class=\"search-result-import-path\">@union-find/non-contiguous/src/adt/LinkedListWithHeadAndLength.js</span>",
     "function"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~array",
-    "external/index.html",
-    "BuiltinExternal/ECMAScriptExternal.js~Array",
+    "src/.external-ecmascript.js~array",
+    "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
+    "src/.external-ecmascript.js~Array",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~arraybuffer",
-    "external/index.html",
-    "BuiltinExternal/ECMAScriptExternal.js~ArrayBuffer",
+    "src/.external-ecmascript.js~arraybuffer",
+    "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+    "src/.external-ecmascript.js~ArrayBuffer",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~boolean",
-    "external/index.html",
-    "BuiltinExternal/ECMAScriptExternal.js~Boolean",
+    "src/.external-ecmascript.js~boolean",
+    "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "src/.external-ecmascript.js~Boolean",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~dataview",
-    "external/index.html",
-    "BuiltinExternal/ECMAScriptExternal.js~DataView",
+    "src/.external-ecmascript.js~dataview",
+    "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView",
+    "src/.external-ecmascript.js~DataView",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~date",
-    "external/index.html",
-    "BuiltinExternal/ECMAScriptExternal.js~Date",
+    "src/.external-ecmascript.js~date",
+    "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date",
+    "src/.external-ecmascript.js~Date",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~error",
-    "external/index.html",
-    "BuiltinExternal/ECMAScriptExternal.js~Error",
+    "src/.external-ecmascript.js~error",
+    "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error",
+    "src/.external-ecmascript.js~Error",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~evalerror",
-    "external/index.html",
-    "BuiltinExternal/ECMAScriptExternal.js~EvalError",
+    "src/.external-ecmascript.js~evalerror",
+    "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError",
+    "src/.external-ecmascript.js~EvalError",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~float32array",
-    "external/index.html",
-    "BuiltinExternal/ECMAScriptExternal.js~Float32Array",
+    "src/.external-ecmascript.js~float32array",
+    "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array",
+    "src/.external-ecmascript.js~Float32Array",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~float64array",
-    "external/index.html",
-    "BuiltinExternal/ECMAScriptExternal.js~Float64Array",
+    "src/.external-ecmascript.js~float64array",
+    "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array",
+    "src/.external-ecmascript.js~Float64Array",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~function",
-    "external/index.html",
-    "BuiltinExternal/ECMAScriptExternal.js~Function",
+    "src/.external-ecmascript.js~function",
+    "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "src/.external-ecmascript.js~Function",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~generator",
-    "external/index.html",
-    "BuiltinExternal/ECMAScriptExternal.js~Generator",
+    "src/.external-ecmascript.js~generator",
+    "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator",
+    "src/.external-ecmascript.js~Generator",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~generatorfunction",
-    "external/index.html",
-    "BuiltinExternal/ECMAScriptExternal.js~GeneratorFunction",
+    "src/.external-ecmascript.js~generatorfunction",
+    "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction",
+    "src/.external-ecmascript.js~GeneratorFunction",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~infinity",
-    "external/index.html",
-    "BuiltinExternal/ECMAScriptExternal.js~Infinity",
+    "src/.external-ecmascript.js~infinity",
+    "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity",
+    "src/.external-ecmascript.js~Infinity",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~int16array",
-    "external/index.html",
-    "BuiltinExternal/ECMAScriptExternal.js~Int16Array",
+    "src/.external-ecmascript.js~int16array",
+    "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array",
+    "src/.external-ecmascript.js~Int16Array",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~int32array",
-    "external/index.html",
-    "BuiltinExternal/ECMAScriptExternal.js~Int32Array",
+    "src/.external-ecmascript.js~int32array",
+    "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array",
+    "src/.external-ecmascript.js~Int32Array",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~int8array",
-    "external/index.html",
-    "BuiltinExternal/ECMAScriptExternal.js~Int8Array",
+    "src/.external-ecmascript.js~int8array",
+    "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array",
+    "src/.external-ecmascript.js~Int8Array",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~internalerror",
-    "external/index.html",
-    "BuiltinExternal/ECMAScriptExternal.js~InternalError",
+    "src/.external-ecmascript.js~internalerror",
+    "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError",
+    "src/.external-ecmascript.js~InternalError",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~json",
-    "external/index.html",
-    "BuiltinExternal/ECMAScriptExternal.js~JSON",
+    "src/.external-ecmascript.js~json",
+    "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON",
+    "src/.external-ecmascript.js~JSON",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~map",
-    "external/index.html",
-    "BuiltinExternal/ECMAScriptExternal.js~Map",
+    "src/.external-ecmascript.js~map",
+    "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map",
+    "src/.external-ecmascript.js~Map",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~nan",
-    "external/index.html",
-    "BuiltinExternal/ECMAScriptExternal.js~NaN",
+    "src/.external-ecmascript.js~nan",
+    "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN",
+    "src/.external-ecmascript.js~NaN",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~number",
-    "external/index.html",
-    "BuiltinExternal/ECMAScriptExternal.js~Number",
+    "src/.external-ecmascript.js~number",
+    "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "src/.external-ecmascript.js~Number",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~object",
-    "external/index.html",
-    "BuiltinExternal/ECMAScriptExternal.js~Object",
+    "src/.external-ecmascript.js~object",
+    "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "src/.external-ecmascript.js~Object",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~promise",
-    "external/index.html",
-    "BuiltinExternal/ECMAScriptExternal.js~Promise",
+    "src/.external-ecmascript.js~promise",
+    "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+    "src/.external-ecmascript.js~Promise",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~proxy",
-    "external/index.html",
-    "BuiltinExternal/ECMAScriptExternal.js~Proxy",
+    "src/.external-ecmascript.js~proxy",
+    "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy",
+    "src/.external-ecmascript.js~Proxy",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~rangeerror",
-    "external/index.html",
-    "BuiltinExternal/ECMAScriptExternal.js~RangeError",
+    "src/.external-ecmascript.js~rangeerror",
+    "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError",
+    "src/.external-ecmascript.js~RangeError",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~referenceerror",
-    "external/index.html",
-    "BuiltinExternal/ECMAScriptExternal.js~ReferenceError",
+    "src/.external-ecmascript.js~referenceerror",
+    "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError",
+    "src/.external-ecmascript.js~ReferenceError",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~reflect",
-    "external/index.html",
-    "BuiltinExternal/ECMAScriptExternal.js~Reflect",
+    "src/.external-ecmascript.js~reflect",
+    "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
+    "src/.external-ecmascript.js~Reflect",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~regexp",
-    "external/index.html",
-    "BuiltinExternal/ECMAScriptExternal.js~RegExp",
+    "src/.external-ecmascript.js~regexp",
+    "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp",
+    "src/.external-ecmascript.js~RegExp",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~set",
-    "external/index.html",
-    "BuiltinExternal/ECMAScriptExternal.js~Set",
+    "src/.external-ecmascript.js~set",
+    "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set",
+    "src/.external-ecmascript.js~Set",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~string",
-    "external/index.html",
-    "BuiltinExternal/ECMAScriptExternal.js~String",
+    "src/.external-ecmascript.js~string",
+    "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "src/.external-ecmascript.js~String",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~symbol",
-    "external/index.html",
-    "BuiltinExternal/ECMAScriptExternal.js~Symbol",
+    "src/.external-ecmascript.js~symbol",
+    "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol",
+    "src/.external-ecmascript.js~Symbol",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~syntaxerror",
-    "external/index.html",
-    "BuiltinExternal/ECMAScriptExternal.js~SyntaxError",
+    "src/.external-ecmascript.js~syntaxerror",
+    "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError",
+    "src/.external-ecmascript.js~SyntaxError",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~typeerror",
-    "external/index.html",
-    "BuiltinExternal/ECMAScriptExternal.js~TypeError",
+    "src/.external-ecmascript.js~typeerror",
+    "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError",
+    "src/.external-ecmascript.js~TypeError",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~urierror",
-    "external/index.html",
-    "BuiltinExternal/ECMAScriptExternal.js~URIError",
+    "src/.external-ecmascript.js~urierror",
+    "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError",
+    "src/.external-ecmascript.js~URIError",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~uint16array",
-    "external/index.html",
-    "BuiltinExternal/ECMAScriptExternal.js~Uint16Array",
+    "src/.external-ecmascript.js~uint16array",
+    "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array",
+    "src/.external-ecmascript.js~Uint16Array",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~uint32array",
-    "external/index.html",
-    "BuiltinExternal/ECMAScriptExternal.js~Uint32Array",
+    "src/.external-ecmascript.js~uint32array",
+    "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array",
+    "src/.external-ecmascript.js~Uint32Array",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~uint8array",
-    "external/index.html",
-    "BuiltinExternal/ECMAScriptExternal.js~Uint8Array",
+    "src/.external-ecmascript.js~uint8array",
+    "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array",
+    "src/.external-ecmascript.js~Uint8Array",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~uint8clampedarray",
-    "external/index.html",
-    "BuiltinExternal/ECMAScriptExternal.js~Uint8ClampedArray",
+    "src/.external-ecmascript.js~uint8clampedarray",
+    "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray",
+    "src/.external-ecmascript.js~Uint8ClampedArray",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~weakmap",
-    "external/index.html",
-    "BuiltinExternal/ECMAScriptExternal.js~WeakMap",
+    "src/.external-ecmascript.js~weakmap",
+    "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap",
+    "src/.external-ecmascript.js~WeakMap",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~weakset",
-    "external/index.html",
-    "BuiltinExternal/ECMAScriptExternal.js~WeakSet",
+    "src/.external-ecmascript.js~weakset",
+    "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
+    "src/.external-ecmascript.js~WeakSet",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~boolean",
-    "external/index.html",
-    "BuiltinExternal/ECMAScriptExternal.js~boolean",
+    "src/.external-ecmascript.js~boolean",
+    "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "src/.external-ecmascript.js~boolean",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~function",
-    "external/index.html",
-    "BuiltinExternal/ECMAScriptExternal.js~function",
+    "src/.external-ecmascript.js~function",
+    "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "src/.external-ecmascript.js~function",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~null",
-    "external/index.html",
-    "BuiltinExternal/ECMAScriptExternal.js~null",
+    "src/.external-ecmascript.js~null",
+    "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null",
+    "src/.external-ecmascript.js~null",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~number",
-    "external/index.html",
-    "BuiltinExternal/ECMAScriptExternal.js~number",
+    "src/.external-ecmascript.js~number",
+    "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "src/.external-ecmascript.js~number",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~object",
-    "external/index.html",
-    "BuiltinExternal/ECMAScriptExternal.js~object",
+    "src/.external-ecmascript.js~object",
+    "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "src/.external-ecmascript.js~object",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~string",
-    "external/index.html",
-    "BuiltinExternal/ECMAScriptExternal.js~string",
+    "src/.external-ecmascript.js~string",
+    "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "src/.external-ecmascript.js~string",
     "external"
   ],
   [
-    "builtinexternal/ecmascriptexternal.js~undefined",
-    "external/index.html",
-    "BuiltinExternal/ECMAScriptExternal.js~undefined",
-    "external"
-  ],
-  [
-    "builtinexternal/webapiexternal.js~audiocontext",
-    "external/index.html",
-    "BuiltinExternal/WebAPIExternal.js~AudioContext",
-    "external"
-  ],
-  [
-    "builtinexternal/webapiexternal.js~canvasrenderingcontext2d",
-    "external/index.html",
-    "BuiltinExternal/WebAPIExternal.js~CanvasRenderingContext2D",
-    "external"
-  ],
-  [
-    "builtinexternal/webapiexternal.js~documentfragment",
-    "external/index.html",
-    "BuiltinExternal/WebAPIExternal.js~DocumentFragment",
-    "external"
-  ],
-  [
-    "builtinexternal/webapiexternal.js~element",
-    "external/index.html",
-    "BuiltinExternal/WebAPIExternal.js~Element",
-    "external"
-  ],
-  [
-    "builtinexternal/webapiexternal.js~event",
-    "external/index.html",
-    "BuiltinExternal/WebAPIExternal.js~Event",
-    "external"
-  ],
-  [
-    "builtinexternal/webapiexternal.js~node",
-    "external/index.html",
-    "BuiltinExternal/WebAPIExternal.js~Node",
-    "external"
-  ],
-  [
-    "builtinexternal/webapiexternal.js~nodelist",
-    "external/index.html",
-    "BuiltinExternal/WebAPIExternal.js~NodeList",
-    "external"
-  ],
-  [
-    "builtinexternal/webapiexternal.js~xmlhttprequest",
-    "external/index.html",
-    "BuiltinExternal/WebAPIExternal.js~XMLHttpRequest",
+    "src/.external-ecmascript.js~undefined",
+    "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
+    "src/.external-ecmascript.js~undefined",
     "external"
   ],
   [
@@ -636,6 +480,12 @@ window.esdocSearchIndex = [
     "file"
   ],
   [
+    "src/fundamentals/index.js",
+    "file/src/fundamentals/index.js.html",
+    "src/fundamentals/index.js",
+    "file"
+  ],
+  [
     "src/fundamentals/linkedlistbackfind.js",
     "file/src/fundamentals/linkedlistbackfind.js.html",
     "src/fundamentals/linkedlistbackfind.js",
@@ -660,9 +510,21 @@ window.esdocSearchIndex = [
     "file"
   ],
   [
+    "src/index.js",
+    "file/src/index.js.html",
+    "src/index.js",
+    "file"
+  ],
+  [
     "src/tools/_prototype.js",
     "file/src/tools/_prototype.js.html",
     "src/tools/_prototype.js",
+    "file"
+  ],
+  [
+    "src/tools/index.js",
+    "file/src/tools/index.js.html",
+    "src/tools/index.js",
     "file"
   ]
 ]

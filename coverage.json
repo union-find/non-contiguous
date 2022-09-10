@@ -1,9 +1,40 @@
 {
   "coverage": "0%",
-  "expectCount": 40,
+  "expectCount": 22,
   "actualCount": 0,
   "files": {
-    "src/fundamentals/LinkedListNode.js": {
+    "src/adt/Forest.js": {
+      "expectCount": 4,
+      "actualCount": 0,
+      "undocumentLines": [
+        3,
+        8,
+        14,
+        22
+      ]
+    },
+    "src/adt/ForestAmortizedHalving.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        1
+      ]
+    },
+    "src/adt/ForestAmortizedRecursive.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        1
+      ]
+    },
+    "src/adt/ForestAmortizedSplitting.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        1
+      ]
+    },
+    "src/adt/ForestAmortizedTwoPasses.js": {
       "expectCount": 1,
       "actualCount": 0,
       "undocumentLines": [
@@ -11,83 +42,34 @@
       ]
     },
     "src/adt/LinkedList.js": {
-      "expectCount": 4,
+      "expectCount": 2,
       "actualCount": 0,
       "undocumentLines": [
-        3,
-        13,
-        23,
-        5
-      ]
-    },
-    "src/adt/Forest.js": {
-      "expectCount": 4,
-      "actualCount": 0,
-      "undocumentLines": [
-        3,
-        16,
-        26,
-        8
-      ]
-    },
-    "src/adt/LinkedListWithHeadAndLength.js": {
-      "expectCount": 4,
-      "actualCount": 0,
-      "undocumentLines": [
-        3,
-        31,
-        33,
-        10
-      ]
-    },
-    "src/adt/ForestAmortizedHalving.js": {
-      "expectCount": 4,
-      "actualCount": 0,
-      "undocumentLines": [
-        3,
-        7,
-        22,
-        5
+        1,
+        7
       ]
     },
     "src/adt/LinkedListWithHead.js": {
-      "expectCount": 4,
+      "expectCount": 1,
       "actualCount": 0,
       "undocumentLines": [
-        3,
-        18,
-        20,
-        5
+        1
       ]
     },
-    "src/adt/ForestAmortizedTwoPasses.js": {
-      "expectCount": 4,
+    "src/adt/LinkedListWithHeadAndLength.js": {
+      "expectCount": 3,
       "actualCount": 0,
       "undocumentLines": [
         3,
-        7,
-        24,
-        5
+        10,
+        29
       ]
     },
-    "src/adt/ForestAmortizedSplitting.js": {
-      "expectCount": 4,
+    "src/fundamentals/LinkedListNode.js": {
+      "expectCount": 1,
       "actualCount": 0,
       "undocumentLines": [
-        3,
-        7,
-        22,
-        5
-      ]
-    },
-    "src/adt/ForestAmortizedRecursive.js": {
-      "expectCount": 4,
-      "actualCount": 0,
-      "undocumentLines": [
-        3,
-        7,
-        17,
-        5
+        1
       ]
     },
     "src/fundamentals/RankedTreeNode.js": {
@@ -98,13 +80,6 @@
       ]
     },
     "src/fundamentals/_makeset.js": {
-      "expectCount": 1,
-      "actualCount": 0,
-      "undocumentLines": [
-        1
-      ]
-    },
-    "src/tools/_prototype.js": {
       "expectCount": 1,
       "actualCount": 0,
       "undocumentLines": [
@@ -133,6 +108,13 @@
       ]
     },
     "src/fundamentals/rankedtreeunion.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        1
+      ]
+    },
+    "src/tools/_prototype.js": {
       "expectCount": 1,
       "actualCount": 0,
       "undocumentLines": [
